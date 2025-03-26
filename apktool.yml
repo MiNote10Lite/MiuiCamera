@@ -1,0 +1,30 @@
+version: 2.11.1
+apkFileName: MiuiCamera.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: null
+sdkInfo:
+  minSdkVersion: 28
+  targetSdkVersion: 29
+packageInfo:
+  forcedPackageId: 127
+  renameManifestPackage: null
+versionInfo:
+  versionCode: 430041805
+  versionName: 4.3.004180.5
+sharedLibrary: false
+sparseResources: false
+compactEntries: false
+doNotCompress:
+- arsc
+- dex
+- jpg
+- mp3
+- mp4
+- ogg
+- png
+- so
+- webp
+- assets/authpack/authpack.bin
